@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Install below npm libraries
+
+###  `npm install react-router-dom`
+
+### `npm install bootstrap`
+### `npm install react-validation`
+### `npm install react-images-upload`
+
+# Replace unsplash API access key from src/Search.js
+
 ## Available Scripts
 
 In the project directory, you can run:
